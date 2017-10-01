@@ -1,0 +1,6 @@
+c:\users\slightom\documents\visual studio 2017\Projects\AminoSoupLottery\AminoSoupLottery\bin\Debug\AminoSoupLottery.exe.config
+c:\users\slightom\documents\visual studio 2017\Projects\AminoSoupLottery\AminoSoupLottery\bin\Debug\AminoSoupLottery.exe
+c:\users\slightom\documents\visual studio 2017\Projects\AminoSoupLottery\AminoSoupLottery\bin\Debug\AminoSoupLottery.pdb
+c:\users\slightom\documents\visual studio 2017\Projects\AminoSoupLottery\AminoSoupLottery\obj\Debug\AminoSoupLottery.csprojResolveAssemblyReference.cache
+c:\users\slightom\documents\visual studio 2017\Projects\AminoSoupLottery\AminoSoupLottery\obj\Debug\AminoSoupLottery.exe
+c:\users\slightom\documents\visual studio 2017\Projects\AminoSoupLottery\AminoSoupLottery\obj\Debug\AminoSoupLottery.pdb
